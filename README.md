@@ -64,7 +64,7 @@ Analyze Citi Bike trip data to identify trends, patterns, and unexpected phenome
 ## Dashboard & Story Access
 
 👉 **View Interactive Tableau Dashboard:**  
-[(Paste your Tableau Public link here)](https://public.tableau.com/app/profile/jay.manion/viz/CitiBikeProject_17198983484450/CitiBike)
+(https://public.tableau.com/app/profile/jay.manion/viz/CitiBikeProject_17198983484450/CitiBike)
 
 ---
 
