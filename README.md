@@ -64,17 +64,20 @@ Analyze Citi Bike trip data to identify trends, patterns, and unexpected phenome
 ## Dashboard & Story Access
 
 👉 **View Interactive Tableau Dashboard:**  
-(Paste your Tableau Public link here)
+[(Paste your Tableau Public link here)](https://public.tableau.com/app/profile/jay.manion/viz/CitiBikeProject_17198983484450/CitiBike)
 
 ---
 
 ## Example Visualizations
-*(Optional – add screenshots if you want)*
 
 - Ridership trends over time  
 - Peak hour usage analysis  
 - User type comparison  
-- Station popularity map  
+- Station popularity map
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/d263697f-2aa4-4308-bd20-38c224296925" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/35aad137-9223-40f4-85ce-1c5bbeea6955" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/deed9b92-cb90-40fb-bfb0-59e5c1fb9bef" />
 
 ---
 
